@@ -101,8 +101,4 @@ Access the app at `http://localhost:5000`.
 
 This project was completed as part of the Master of Computer Applications program at The National Institute of Engineering, Mysuru.
 
-***
-
-This README provides a comprehensive overview of the project, installation instructions, usage notes, and future directions aligning with your detailed project report. Let me know if you want it tailored specifically for certain GitHub features like badges or contribution guidelines.
-
 [1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/44855525/6b7f09df-7b42-4c60-8615-c9696c869f99/final-report.pdf)
